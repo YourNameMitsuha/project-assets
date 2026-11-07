@@ -1,4 +1,4 @@
-# image-host
+# project-assets
 
 個人專案的圖片空間，用於 Steam 工作坊說明頁等外部頁面引用。只放圖片，不含任何原始碼。
 Personal image hosting for project pages (e.g. Steam Workshop descriptions). Images only, no source code.
